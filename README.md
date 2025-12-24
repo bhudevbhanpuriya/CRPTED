@@ -1,4 +1,8 @@
 # CRPTED 📈
+
+Live Link - 
+https://crpted.vercel.app/
+
 **Cryptocurrency Market Tracker**
 
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg?logo=react)](https://reactjs.org)
@@ -53,3 +57,4 @@ The platform delivers a complete cryptocurrency tracking solution with features 
 ## 🎯 Project Goals
 
 CRPTED was developed to bridge the gap between complex cryptocurrency data and user-friendly market analysis tools. The platform emphasizes performance, scalability, and user experience to create a reliable resource for cryptocurrency market tracking and analysis.
+
